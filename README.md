@@ -28,6 +28,7 @@ Use this app to calculate present value of investments made (or should have made
 
 ## Future Roadmap
 
+* Fun insult and consoling statement generator with the result
 * More responsive for mobile phones (possible PWA)
 * Front End data validation for the three inputs
   * Ticker: autofill or dropdown to select only valid options
