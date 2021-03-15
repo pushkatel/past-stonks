@@ -1,4 +1,4 @@
-# Stonks! - a historical stock price app
+# Stonks! - A Historical Stock Price App
 
 ## Visit
 
@@ -28,9 +28,9 @@ Use this app to calculate present value of investments made (or should have made
 
 ## Future Roadmap
 
-* Fun insult and consoling statement generator with the result
+* Fun insult and nice message generator based on the result
 * More responsive for mobile phones (possible PWA)
-* Front End data validation for the three inputs
+* Front End data validation for the three inputs:
   * Ticker: autofill or dropdown to select only valid options
   * Amount: Data formatting with commas
   * Date: Only allow weekday seelctions (no weekends since Tiingo has no data)
@@ -39,7 +39,7 @@ Use this app to calculate present value of investments made (or should have made
 * Social Media integration to share results
 * Greater Accessibility for visually impaired customers (A11Y)
 * Ability to add SMS/Email reminders to invest (very low priority)
-
+* Any ideas you may have! Please reach out!
 
 
 
@@ -50,8 +50,7 @@ Use this app to calculate present value of investments made (or should have made
 ## Installation
 
 * To install all dependencies: `npm run install`
-* To create database and seed: `createdb grace-shopper-yy && createdb grace-shopper-yy-test`
-* Seed Database with products and accounts: `npm run seed`
+* To create database and seed: `createdb past-stonks && createdb past-stonks-test`
 * To Run App!: `npm run start-dev`
 
 #### Store your Tiingo API key infromation in a new file secrets.js\* or global environmenal variables
