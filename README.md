@@ -43,7 +43,7 @@ Use this app to calculate present value of investments made (or should have made
 
 
 
-## Authors
+## Developer
 
 [Kush Patel](https://www.linkedin.com/in/kushpatel21/)
 
